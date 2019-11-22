@@ -1,0 +1,259 @@
+Polish language uses cases, to give a certain meaning to words.
+
+It can transform nouns, adjectives, numbers, pronouns.
+
+READING THIS WON'T MAKE YOU MAGICALLY TRANSFORM WORDS CORRECTLY!!!
+BY READING THIS *I HOPE* YOU WILL !UNDERSTAND! HOW THE CASES WORK!
+So I hope after reading this, you won't say stuff like "Idę do szkoła."!
+
+
+https://polszczyzna.pl/przypadki-w-jezyku-polskim/
+
+The case names are as follows:
+
+	Mianownik	(latin: nominativus)
+	Dopełniacz	(latin: genetivus)
+	Celownik	(latin: dativus)
+	Biernik		(latin: accusativus)
+	Narzędnik	(latin: instrumentalist)	
+	Miejscownik	(latin: locativus)
+	Wołacz		(latin: vocativus)
+
+Now, let's get more into that.
+Each case has its own set of questions that, once answered, will give a correct form.
+This unfortunately, works mainly only for native speakers, as we are used to the all kind of word varieties, and once we ask a question in our head, we can find a matching form of a word.
+(So good luck, foreigners!)
+
+	Mianownik	Kto? Co? (Who? What [thing]?) 		
+	Dopełniacz	Kogo? Czego? (Who? What?) 	
+	Celownik	Komu? Czemu?(Who? What?)	
+	Biernik		Kogo? Co?(Who? What [thing]?)
+	Narzędnik	Z kim? Z czym? (With whom? With what[thing]?)
+	Miejscownik	O kim? O czym? (About whom? About what[thing]?)
+	Wołacz		No question, it's used to address someone - o!
+
+
+
+Pretty crazy. So many forms but in English it's mostly Who and What.
+It is just as non informative for a native, as it is for a foreigner (kind of)
+Polish people use "question complements" to make the questions more distinct.
+And so the questions are as follows:
+
+	Mianownik	Kto jest? Co jest? 		(Who is? What is? = This is ...)
+	Dopełniacz	Kogo nie ma? Czego nie ma?	(Who isn't [here]? What isn't [here]? = ... isn't here)
+	Celownik	Komu to daje? Czemu* to daje?	(I give it to who? I give it to what?)
+	Biernik		Kogo widzę? Co widzę?		(Who do I see? What do I see? = I see ...)
+	Narzędnik	Z kim idę? Z czym idę?		(I go with whom? I go with what? = I go with ...)
+	Miejscownik	O kim myślę? O czym myślę?	(I think about whom? I think about what?)
+	Wołacz		o!				(examples: Piter! Come over here!. Piter will be in a "wołacz" form**)
+
+
+* = Czemu doesn't mean "why?". In this particular meaning it means TO WHAT(kind of a thing) I give a book? for example.
+** = Polish translation:	Piotrze! Chodź tutaj!
+				Mianownik:	Piotr (Who is? Piotr is (here)). 
+				Wołacz: 	Piotrze!
+
+
+Time for some examples.
+Please pay attention to the cases, not grammar per say.
+
+Since I already started with a Polish male name, Piotr, I will use it as a first example.
+
+
+	Mianownik	Piotr		Kto jest? Piotr jest [tuta]. 			Who is? Piotr is [here]
+	Dopełniacz	Piotra		Kogo nie ma [tutaj]? Piotra nie ma [tutaj]. 	Who isn't [here]? Piotr isn't [here].*
+	Celownik	Piotrowi	(reverse order)**Daję to komu?Daję to Piotrowi.	I give it to who? I give it to Piotr.
+	Biernik		Piotra		(reverse)Widzę kogo? Widzę Piotra.		I see who? I see Piotr.
+	Narzędnik	z Piotrem	(reverse)Idę z kim? Idę z Piotrem.		I go with whom? I go with Piotr.
+	Miejscownik	o Piotrze	(reverse)Myślę o kim? Myślę o Piotrze.		I think about whom? I think about Piotr.
+	Wołacz		Piotrze!***	
+
+
+* = Ok, so you can think of Dopełniacz also in situations like " of Piotr "(of who?), or " Piotr's "(who's?)
+	Piotr's car = Samochód Piotra
+	Relative of Piotr = Krewny Piotra
+	What is the age of Piotr's Sister? = Jaki jest wiek Piotra siostry.
+		This is a very nice sentence. Let's break it down.
+		
+		Jaki jest wiek Piotra siostry.
+		wiek	= mianownik	= age
+		Piotra	= dopełniacz	= Piotr's 	(<-- Piotr's sister)
+		Siostry = dopełniacz	= Sister's 	(<-- Sister's age)
+		
+		We can break it down ever further for better understanding.
+
+		Jaki jest wiek siostry?	= Jaki jest wiek kogo?	= What is the age of who?
+		Jaki jest wiek Piotra siostry? = Jaki jest wiek kogo siostry? = What is the age of whose sister?
+
+
+
+** = To "match" English translation, I have reversed the order of the question. It IS allowed in Polish language, mainly BECAUSE we have cases.
+	In case you wonder, the verbs are in first person form. I could also write it like that:
+	Komu to daje?	= Daję to komu?	= Ja daję to komu?
+	Kogo widzę?	= Widzę kogo?	= Ja widzę kogo?
+	Z kim idę?	= Idę z kim?	= Ja idę z kim?
+	O kim myślę?	= Myślę o kim?	= Ja myślę o kim?
+
+	I reversed the order, to give an example similar to a chinese sentence, where I only replace the actual nouns, without changing any word order.
+		他是Piotr = 他是谁？
+		你喜欢和Piotr一起看电视 = 你喜欢和谁一起看电视？
+
+
+
+*** = Well... As I said it is to adress someone. It goes out of use, as nowadays we just shout the name of a person we want to "draw attention" of.
+	Piotr! Chodź tutaj! = Piotr! Come here! <- Mianownik used as Wołacz
+	Piotrze! Chodź tutaj! = Piotr! Come here! <-Wołacz in action. Feels kind of old-fashion
+
+Ok! More nouns!
+
+Let's get it going with A CAT!
+	Mianownik	Kot	Tutaj jest kto? Tutaj jest kot.
+					Here is who? Here is a cat.
+	Dopełniacz	Kota	Kogo nie ma? Kota nie ma.
+					Who isn't[here]? Cat isn't[here].
+	Celownik	Kotu	Ja daję to komu? Ja daję to kotu.
+					I give it to who? I give it to a cat.
+	Biernik		Kota	Ja widzę kogo?	Ja widzę kota.
+					I see who? I see a cat.
+	Narzędnik	z kotem	 Ja idę z kim? Ja idę z kotem.
+					I go with whom? I go with a cat.
+	Miejscownik	o kocie	 Ja myślę o kim? Ja myślę o kocie.
+					I think about whom? I think about a cat.
+	Wołacz		Kocie!
+	
+
+
+Below I wrote more complex sentences.
+
+	Mianownik	kot		Tutaj jest kto? Tutaj jest kot.	
+						Here is what? Here is a cat.
+	Dopełniacz	kota		To mleko jest kogo/czego? To mleko jest kota.
+						This milk is(belongs to) who/what. This milk is cat's.
+	Celownik	kotu		Ja daję mleko komu? Ja daje mleko kotu.
+						I give milk to who? I give milk to a cat.
+	Biernik		kota		Ja widzę kogo na dachu? Ja widzę kota na dachu.
+						I see who on the roof? I see a cat on the roof.
+	Narzędnik	z kotem		Ty idziesz z kim na spacer? Ty idziesz z kotem na spacer.
+						You are going on a walk with who? You are going on a walk with a cat.
+	Miejscownik	o kocie		On ciągle myśli o kim? On ciągle myśli o kocie.
+						He's constantly thinking about who? He's constantly thinking about a cat.
+	Wołacz		Kocie!
+
+
+* = Kot is not a person, thus a word "co?" ought to be used. Although, it doesn't sound right, and I think "kto?" sounds more "fair" towards a cat. That's why later on I used personal question words. Pay some respect to the cats!!
+
+
+
+Wow! That's a lot of information. AND WE ARE JUST GETTING STARTED! WE DIDN'T EVEN TOUCH ADJECTIVES!!
+
+Little cat: (Little = Mały)
+
+	Mianownik	mały kot		Tutaj jest kto? Tutaj jest mały kot.
+							Here is who? Here is a little cat.
+	Dopełniacz	małego kota		Kogo nie ma? Małego kota nie ma.
+							Who isn't [here]? Little cat isn't [here].
+	Celownik	małemu kotu		Ja daję to komu? Ja daję to małemu kotu.
+							I give it to who? I give it to a little cat.
+	Biernik		małego kota		Ja widzę kogo? Ja widzę małego kota.
+							I see who? I see a little cat.
+	Narzędnik	z małym kotem		Ja idę z kim? Ja idę z małym kotem.
+							I go with whom? I go with a little cat.
+	Miejscownik	o małym kocie		Ja myślę o kim? Ja myślę o małym kocie.
+							I think about whom? I think about a little cat.
+	Wołacz		Mały kocie!
+
+
+
+
+Now that you had a glimpse on the cases, it's time to explain them more (I didn't want you to fall asleep at the very beginning).
+
+
+	Mianownik	- This form of a word is used in dictionaries. It is the very base of a word - unchanged.
+			- It is when the word is used as a Subject.
+
+	Dopełniacz	- Used when talking that something belongs TO SOMEONE/SOMETHING. Similar to English "of someone" or "someone's". Similar to Chinese someone的
+			- Used for a noun that is an object of a negative sentences. I did not eat the cake. Ja nie zjadłem tortu.
+			- Used with numbers:	Five cats = pięć kotów.
+						Show us the fifth cat = Pokaż nam piątego kota.
+
+	Celownik	- Is used mainly for situations that something is given TO SOMEONE. I gave the book to Piotr = Dałem książke Piotrowi.
+			- Used with verbs such as (but not limited to)
+						dawać		(give)
+						mówić		(talk)
+						sprzedawać	(sell)
+						oddawać		(give back to/return)
+						pomagać		(help)
+						obiecywać	(promise)
+						dziękować	(thank)
+
+			- Used with prepositions such as: 
+						dzięki		(thanks to) I did it thanks to you - Zrobiłem to dzięki tobie.
+						przeciw 	(against to) Proposal against abortion - Wniosek przeciw aborcji.
+						wbrew		(against to) Against my will - Wbrew mojej woli.
+						ku		(???)	For the country's glory! - Ku chwale ojczyzny!
+									To my surprise - Ku mojemu zdziwieniu.
+
+	Biernik		- used for an object of a verb THAT ARE NOT NEGATED (If negated, they turn into Dopełniacz)
+				Widzę (kogo/co?) kota.			I see a cat		Biernik
+				Nie widzę (kogo/czego?) kota.		I don't see the cat	Dopełniacz(Not a good example, as both forms are the same)
+
+				lubię (kogo?co?) muzykę.		I lubię music		Biernik
+				Nie lubię (kogo? czego?) muzyki.	I don't lubię music	Dopełniacz
+
+	Narzędnik	- Let's clear things out. The "z" part is optional. It matches the question With whom? Z kim? yet, once you get more advanced, you can just ask "kim?/czym?"
+				It also joins with prepositions like:
+							z kim? z czym?		with whom? with what?
+							nad kim? nad czym?	above who? above what?
+							pod kim? pod czym?	under who? under what?
+
+				If we skip preposition, you can ask ALL KIND OF QUESTIONS.
+
+				Describes tools that you use to complete an action:
+
+					Wbijam gwoździe czym? Wbijam gwoździe młotkiem.	I hammer the nails with what? I hammer the nails with a hammer. (in Polish, there's no "with")
+					Rysuję czym? Rysuję ołówkiem.	I paint with what? I paint with a pencil.
+					Jadę czym? Jadę pociągiem. 	I go by what? I go by train.
+
+				Describes what you're interested about:
+
+					Interesuję się czym? Interesuję się samochodami.	I'm into what? I'm into cars.
+					Interesuję się czym? Interesuję się gotowaniem.		I'm into what? I'm into cooking.
+
+				Describes who you are:
+
+					Jestem kim? Jestem Polakiem.		I'm who? I'm Polish.
+					Jesteś kim? Jesteś nauczycielem.	You are who? You are a teacher.
+					On jest kim? On jest więźniem.		He is who? He is a prisoner.
+
+			- Narzednik words end in:
+							Singular masculin:	-em
+							Singular feminin:	-ą
+							Plural:			-ami
+
+	Miejscownik	- Used to mainly describe a place, location (as the name Latin says, Locativus - location)
+			- Should be used with a preposition of location(when having a static meaning):
+							w	(in)	I work where? I work in London - Pracuję gdzie? Pracuję w Londynie.
+									I work in what city? I work in London - Pracuję w jakim mieście? Pracuję w Londynie.
+									I left it (in) where? I left it in the fridge - Zostawiłem to w czym?(gdzie) Zostawiłem to w lodówce.
+							na	(on)	I am sitting on what? I am sitting on a bench - Siedzę na czym? Siedzę na ławce.
+			- When you think about something.
+							I think about who? I think about you - Myślę o kim? Myślę o tobie.
+							I think about what? I think about China - Myślę o czym? Myślę o Chinach.
+
+	Wołacz		- Old school way to address someone. Nowadays surpassed by Mianownik.
+			
+				"Litwo! Ojczyzno moja! ty jesteś jak zdrowie;
+				 Ile cię trzeba cenić, ten tylko się dowie,
+				 Kto cię stracił.
+								~Adam Mickiewicz
+
+				"Lithuania! my fatherland! You are like health;
+				 How much you must be valued, will only discover
+				 The one who has lost you."
+						(translation by Katie Busch-Sorensen)
+
+				In this case, Litwa(Lithuania) and ojczyzna(fatherland) is used in a form of wołacz. Adam mickiewicz addresses Lithuania while saying all the words.
+
+
+Have fun learning Polish!
+:D
