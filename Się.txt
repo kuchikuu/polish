@@ -214,7 +214,7 @@ Imagine a disabled person:
 
 Imagine you're alone in New Years Eve:
 	I bought myself a wine - Kupiłem sobie wino - I bought a wine for myself, because I like it and no one bought it for me. (uses "się")
-	I bought a wine myself - Kupiłem sam wino - I bought the wine with no one's help. (uses "sam")
+	I bought a wine myself - Sam kupiłem wino - I bought the wine with no one's help. (uses "sam") I bought the wine and no one told me what kind of wine to buy, it was my own decision.
 
 
 Oh by the way, did I mention "sam" also changes its form depending on cases?
