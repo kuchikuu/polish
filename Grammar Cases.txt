@@ -176,6 +176,12 @@ Now that you had a glimpse on the cases, it's time to explain them more (I didn'
 			- Used with numbers:	Five cats = pięć kotów.
 						Show us the fifth cat = Pokaż nam piątego kota.
 
+			- Used when saying that you go somewhere.
+				Normally, the question could be "where?", but you should think of it as "to who? to what?"
+					Idę do szkoły. - I go to school.
+					Idę do kogo?/do czego? - I go to who(m)?/to what?
+					Idę do szkoły(Dopełniacz)
+
 	Celownik	- Is used mainly for situations that something is given TO SOMEONE. I gave the book to Piotr = Dałem książke Piotrowi.
 			- Used with verbs such as (but not limited to)
 						dawać		(give)
