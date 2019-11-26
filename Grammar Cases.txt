@@ -203,8 +203,8 @@ Now that you had a glimpse on the cases, it's time to explain them more (I didn'
 				Widzę (kogo/co?) kota.			I see a cat		Biernik
 				Nie widzę (kogo/czego?) kota.		I don't see the cat	Dopełniacz(Not a good example, as both forms are the same)
 
-				lubię (kogo?co?) muzykę.		I lubię music		Biernik
-				Nie lubię (kogo? czego?) muzyki.	I don't lubię music	Dopełniacz
+				lubię (kogo?co?) muzykę.		I like music		Biernik
+				Nie lubię (kogo? czego?) muzyki.	I don't like music	Dopełniacz
 
 	Narzędnik	- Let's clear things out. The "z" part is optional. It matches the question With whom? Z kim? yet, once you get more advanced, you can just ask "kim?/czym?"
 				It also joins with prepositions like:
